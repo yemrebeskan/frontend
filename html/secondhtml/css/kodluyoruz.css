@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    -webkit-box-shadow: 5px 5px 31px -7px #000000; 
+    box-shadow: 5px 5px 31px -7px #000000
+}
+
+.gradient:hover {
+    background-color: orange;
+}
+.gradient {
+    background: linear-gradient(
+        90deg
+        ,rgba(45,156,219,.6),rgba(155,81,224,.6));
+        border-radius: 20px;
+}
+
+.container {
+    margin-top: 50px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 1000px;
+    margin: 50px auto 0 auto;
+}
+
+.left-bar {
+    width: 200px;
+    float: left;
+}
+
+.content {
+    float: left;
+    width: 800px
+}
+
+.card {
+    width: 20%;
+    float: left;
+    background-color: rgb(206, 201, 201);
+    margin-right: 2%;
+    padding: 5%;
+    border-radius: 10px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.box {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+/* 
+/* class -> .text-red {}*/
+/* id -> #id-bilgisi{} */
+/* li:first-child {
+    color: green;
+}
+
+li:last-child {
+    color: aqua;
+} */
+/* a:hover{
+    color: red;
+    background-color: gray;
+}
+li:hover {
+    background-color: gray;
+}
+li:nth-child(2n) {
+    color: red;
+}
+
+.color-blue .fw-normal{
+    color: blue;
+    font-weight: normal;
+}
+
+h1,h2,h3,h4 {
+    color: darkgrey;
+}
+
+p {
+    font-size: 20px;
+}
+
+#first-article {
+    font-size: 40px;
+}
+
+.text-red {
+    color: red;
+}
+.fs-14{
+    font-size: 14px;
+}
+
+.fs-20 { 
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+} */ 
+
